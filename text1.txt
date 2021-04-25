@@ -1,1 +1,2 @@
-new file to merge
+new file to merge, file merge pulling the changes to slave branch
+
